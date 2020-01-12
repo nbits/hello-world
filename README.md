@@ -1,5 +1,5 @@
-# hello-world
-As World Greeter, I must I Greet the world.
-For that is my function.
+# goodbye-world
+As World Leaver, I must I leave the world.
+For that is my unction.
 
-wg
+wl
